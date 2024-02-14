@@ -1,0 +1,6 @@
+framework module Pods_mobile_app_promo {
+  umbrella header "Pods-mobile-app-promo-umbrella.h"
+
+  export *
+  module * { export * }
+}
